@@ -17,6 +17,7 @@ public class B {
 			i++;
 			Assert.assertTrue(false);	
 		}	
+		System.out.println( "Hello World!" );
 	}
 
 }
